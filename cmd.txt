@@ -22,3 +22,4 @@
   62 git push origin master
   63 git remote set-url origin https://ghp_noAtEas2OF5nNNwcaa25X7mPTVL4... 
   64 git status
+this is a command of git
