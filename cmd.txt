@@ -1,0 +1,24 @@
+ 33 git status
+  34 git add testing.py
+  35 git status
+  36 clear
+  37 git status
+  38 git rm --cached
+  39 git rm --cached testing.py
+  40 git status
+  41 clear
+  42 git add .
+  43 git status
+  44 git commit -m "add file "
+  45 git status
+  46 rm testing.py
+  47 ls
+  48 clear
+  49 git status
+  50 git restore testing.py
+  51 git status
+  60 git remote add origin https://github.com/vermaanand01/git-for-devo...
+  61 git remote -v
+  62 git push origin master
+  63 git remote set-url origin https://ghp_noAtEas2OF5nNNwcaa25X7mPTVL4... 
+  64 git status
